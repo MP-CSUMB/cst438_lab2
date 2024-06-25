@@ -1,7 +1,12 @@
 line 1
 v1 changes developer 1
+<<<<<<< HEAD
 developer 1 new line 1
 developer 2 new line 2
+=======
+developer 2 new line 3
+developer 2 new line 4
+>>>>>>> 62ca408012e3bafae2728016862c5ce169f87959
 line 2
 line 3
 line 4
